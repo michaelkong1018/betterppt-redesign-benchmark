@@ -1,0 +1,11 @@
+dimension,BetterPPT,Gamma,Wonderslide,Plus AI
+works_on_existing_deck,yes (.pptx upload),yes (.pptx import),yes (PPTX/PDF/DOCX and more),yes (import into editor)
+layout_approach,each slide designed individually,template-based consulting-style blocks,style preset with card layouts,template-style layouts and cards
+new_imagery,yes on most slides,yes (generated cover image),yes on some slides,none added in this test
+original_photos,re-composed full-bleed,placed as-is,placed as-is in cards,placed as-is
+text_on_data_slides,figures kept and enlarged,figures kept; headlines rewritten; summary lines added,"most figures dropped in Improve mode; kept in Preserve mode",kept as written
+editing,download .pptx and edit in PowerPoint (no in-browser editor),built-in editor (all elements editable),built-in editor,built-in editor
+output_file,editable .pptx + HD images,Gamma deck; PPTX/PDF export,free: watermarked PDF; paid: editable PPTX + PDF,native .pptx
+preview_before_paying,first 3 slides after $2.90 refundable deposit,free plan with one-time credits,whole deck watermarked (free),tested on a paid plan
+time,about 15-20 min for 30 slides,about 5-6 min,about 5-6 min,not timed
+price_2026_10_18,"$99 up to 30 slides, $139 for 31-50 (one-time)",free plan; paid roughly $8-20 per seat/month (third-party listings),$4.99 per deck; subscriptions $12.99-24.99/month,from $15/user/month (Pro $25)
