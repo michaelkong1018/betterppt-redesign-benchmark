@@ -34,8 +34,7 @@ Full write-up with commentary: https://betterppt.com/en/ai-powerpoint-redesign-t
 | Text on data slides | Figures kept, enlarged | Figures kept; headlines rewritten, summary lines added | Most figures dropped in default mode | Kept as written |
 | Editing | Download .pptx (no in-browser editor) | Built-in editor | Built-in editor | Built-in editor |
 | Time | ~15–20 min / 30 slides | ~5–6 min | ~5–6 min | not timed |
-| Price (Oct 18, 2026) | $99 ≤30 slides, one-time | Free plan; paid ~$8–20/seat/mo* | $4.99/deck | from $15/user/mo |
-
+| $99 ≤30 slides on Oct 18; now $39 ≤30 slides, $59 for 31–50 (since Oct 19), one-time
 \* Gamma's pricing page blocked our checker; range from third-party listings. Check gamma.app/pricing.
 
 ## The data-heavy slide (Technology & R&D)
