@@ -32,9 +32,9 @@ Full write-up with commentary: https://betterppt.com/en/ai-powerpoint-redesign-t
 | New imagery | Most slides | Generated cover | Some slides | None in this test |
 | Original photos | Re-composed | As-is | As-is in cards | As-is |
 | Text on data slides | Figures kept, enlarged | Figures kept; headlines rewritten, summary lines added | Most figures dropped in default mode | Kept as written |
-| Editing | Download .pptx (no in-browser editor) | Built-in editor | Built-in editor | Built-in editor |
-| Time | ~15–20 min / 30 slides | ~5–6 min | ~5–6 min | not timed |
-| $99 ≤30 slides on Oct 18; now $39 ≤30 slides, $59 for 31–50 (since Oct 19), one-time
+| Editing | Editable .pptx for PowerPoint, plus a chat box: type one sentence about any slide and it is redone | Built-in editor | Built-in editor | Built-in editor |
+| Time (Oct 18 run) | first slides in ~10 min or less, ~15–20 min / 30 slides | ~5–6 min | ~5–6 min | not timed |
+| Price (current, checked 11 Nov 2026) | $39 ≤30 slides, $59 for 31–50, one-time, no subscription; limited-time $9.75 for new users | Free plan; paid ~$8–20/seat/mo* | $4.99/deck | from $15/user/mo |
 \* Gamma's pricing page blocked our checker; range from third-party listings. Check gamma.app/pricing.
 
 ## The data-heavy slide (Technology & R&D)
